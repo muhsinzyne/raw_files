@@ -1,0 +1,14 @@
+<?php
+
+return [
+    'config' => [
+        'base_url' => '[:baseUrl]'
+    ],
+    'db' => [
+        'dsn'	=> '',
+        'hostname' => '[:hostName]',
+        'username' => '[:userName]',
+        'password' => '[:password]',
+        'database' => '[:databaseName]',
+    ],
+];
